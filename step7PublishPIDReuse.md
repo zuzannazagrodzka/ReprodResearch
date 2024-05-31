@@ -244,6 +244,7 @@ Link to your organisation's commercialisation team.
 
 <!-- Include information about your commercialisation team here. -->
 
+The University of Sheffield provides innovators with a supportive system for commercialising research. More here: https://www.sheffield.ac.uk/commercialisation/our-offer
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
