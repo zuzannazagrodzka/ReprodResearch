@@ -166,6 +166,7 @@ Link to your organisation's IP/Copyright person.
 
 <!-- Who do researchers talk to for copyright and IP help? Got a website? -->
 
+The University of Sheffield Library webpages have some further information about copyright. https://www.sheffield.ac.uk/library/copyright
 
 There are plenty of reasons you may not be able to share your data and pipelines openly. 
 
@@ -240,6 +241,7 @@ Link to your organisation's commercialisation team.
 
 <!-- Who do researchers talk to for copyright and IP help? Got a website? -->
 
+The University of Sheffield Library webpages have some further information about copyright. https://www.sheffield.ac.uk/library/copyright
 
 
 <!-- Include information about your commercialisation team here. -->
