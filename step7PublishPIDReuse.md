@@ -269,7 +269,7 @@ create a citation for your work.
 
 <!-- Include information about your organisational data repository here. -->
 
-You can find information about the Research data repositories on the Library resources: https://www.sheffield.ac.uk/library/research-data-management/repositories
+You can find information about the Research data repositories on the Library webpages: https://www.sheffield.ac.uk/library/research-data-management/repositories
 
 [Here is a helpful guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
 
