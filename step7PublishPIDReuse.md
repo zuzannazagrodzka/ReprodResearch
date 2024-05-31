@@ -153,7 +153,7 @@ Have you got an open network?
 
 
 <!-- Include information about open access/publishing here. -->
-
+Information and guidance relating to open access, as well as to the relevant University and research funder policies can be found here: https://www.sheffield.ac.uk/library/open-access
 
 
 Prior to sharing, ensure you have clearly defined the licence, IP and attribution attached to your work.
