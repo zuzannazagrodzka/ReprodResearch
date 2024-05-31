@@ -227,6 +227,8 @@ A good time for suggestions on where to learn R and Python. You've probably alre
 
 <!-- Got any organisation information on where to learn R or Python? Does your institute run carpentries training or data science help? Include it below. -->
 
+The Research Software Engineering Team collaborates with researchers over all areas of University of Sheffield research, and is a hub for the RSE community. YOou can find information on trainings, support and workshops here: 
+https://rse.shef.ac.uk/
 
 If you are using a random number generator, take note of the seed number.
 
