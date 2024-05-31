@@ -434,6 +434,8 @@ A standard operating procedure (SOP) is a set of step-by-step instructions to he
 
 <!-- Got any organisation information on Standard Operating Plans? Include it below. -->
 
+The Clinical Trials Research Unit runs studies and trials according to the standard operating procedures. More information here: https://www.sheffield.ac.uk/ctru/procedures
+
 
 
 
