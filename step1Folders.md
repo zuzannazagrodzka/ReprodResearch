@@ -25,8 +25,6 @@ Link to your institutional Data Management Planning Page
 
 
 
-
-
 <!-- This is where you can write information on your organisation's data management and data management plan webpage and support contacts. Replace the text below with anything you like, and it will appear in relevant places in the lessons. -->
 
 The University of Sheffield Library webpages have some further information about wrtiting a data management plan: https://www.sheffield.ac.uk/library/research-data-management/planning
