@@ -39,6 +39,7 @@ May be worth checking with your library or research office.
 
 <!-- Can you link to an internal 'what to do at the end of a project' checklist? Include it below. -->
 
+You can find some information about preserving data here: https://www.sheffield.ac.uk/library/research-data-management/preserving 
 
 # Persistent Identifiers
 
